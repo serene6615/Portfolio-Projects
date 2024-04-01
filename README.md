@@ -1,2 +1,1 @@
-# Coursera-Test
-Coursera test repository
+# Portfolio Project Repository
